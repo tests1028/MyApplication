@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 //Test for pull
 public class MainActivity1 extends AppCompatActivity {
-    //Test from dev
+
     int r = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
