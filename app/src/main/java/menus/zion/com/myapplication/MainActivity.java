@@ -1,5 +1,4 @@
 package menus.zion.com.myapplication;
-//<<<<<<< HEAD
 //test
 //=======
 //test123456
