@@ -1,6 +1,9 @@
 package menus.zion.com.myapplication;
 //test
+<<<<<<< HEAD
 //test123456 sdfsdf
+=======
+>>>>>>> e24ac864db6b018fbc8b06510ff1069570e8a19d
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
