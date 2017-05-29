@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 //to pull
 public class MainActivity1 extends AppCompatActivity {
-    //to
+    //to above
     int r = 0;
     // below r
     @Override
