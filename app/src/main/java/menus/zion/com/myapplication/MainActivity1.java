@@ -9,6 +9,7 @@ import android.widget.ImageView;
 public class MainActivity1 extends AppCompatActivity {
     //Test from dev
     int r = 0;
+    // below r
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
