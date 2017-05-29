@@ -1,8 +1,6 @@
 package menus.zion.com.myapplication;
 //test
-//=======
 //test123456
-//>>>>>>> 7fd9326538f0f66766876cb327a9db1518eb3dff
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
