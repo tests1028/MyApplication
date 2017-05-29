@@ -7,7 +7,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 public class MainActivity1 extends AppCompatActivity {
-//Test to push
     int r = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
