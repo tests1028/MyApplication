@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
-//
     int r = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
