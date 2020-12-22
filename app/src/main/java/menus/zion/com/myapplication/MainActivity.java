@@ -1,5 +1,4 @@
 package menus.zion.com.myapplication;
-//test
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
